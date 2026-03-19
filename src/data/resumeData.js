@@ -7,7 +7,7 @@ const resumeData = {
   location: "Tenkasi, Tamil Nadu, India",
   phone: "+91 9043230292",
   email: "mukeshmsh2006@gmail.com",
-  linkedin: "https://linkedin.com/in/mukesh-i",
+  linkedin: "https://www.linkedin.com/in/mukeshiyyappan",
   leetcode: "https://leetcode.com/mukesh-i",
   github: "https://github.com/Mukesh105-msh",
 
