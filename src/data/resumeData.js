@@ -130,12 +130,7 @@ const resumeData = {
       description:
         "Represented Sri Ramakrishna Engineering College at Anna University Regional Campus, Coimbatore. Secured third position among 15+ competing institutions. Demonstrated leadership, strategic thinking, and effective communication skills in high-pressure competitive environment.",
     },
-    {
-      title: "Class X Board Exam — 100% Score",
-      role: "Academic Excellence",
-      description:
-        "Achieved a perfect 100% score in Secondary School Certificate (Class X) examinations.",
-    },
+   
   ],
 
   certifications: [

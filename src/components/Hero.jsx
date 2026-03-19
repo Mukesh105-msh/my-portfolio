@@ -30,7 +30,7 @@ export default function Hero() {
               transition={{ delay: 0.2 }}
               className="text-primary-400 font-mono text-sm mb-4 tracking-wider"
             >
-              {"<Hello World />"}
+              
             </motion.p>
 
             <motion.h1
